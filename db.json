@@ -1,0 +1,88 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "code": "B0-0001",
+      "name": "Sincerez",
+      "date": "01/11/2024",
+      "quantity": "5",
+      "category": {
+        "id": "1",
+        "name": "Antonette",
+        "des": "Antonette"
+      }
+    },
+    {
+      "id": "2",
+      "code": "B0-0002",
+      "name": "Antonette",
+      "date": "01/11/2024",
+      "quantity": "4",
+      "category": {
+        "id": "1",
+        "name": "Antonette",
+        "des": "Antonette"
+      }
+    },
+    {
+      "id": "3",
+      "code": "B0-0003",
+      "name": "Karianne",
+      "date": "01/11/2024",
+      "quantity": "3",
+      "category": {
+        "id": "2",
+        "name": "Kamren",
+        "des": "Kamren"
+      }
+    },
+    {
+      "id": "4",
+      "code": "B0-0004",
+      "name": "Leopoldo",
+      "date": "01/11/2024",
+      "quantity": "2",
+      "category": {
+        "id": "2",
+        "name": "Kamren",
+        "des": "Kamren"
+      }
+    },
+    {
+      "id": "cd5f",
+      "code": "BO-1234",
+      "name": "fdsafasd",
+      "category": {
+        "id": "1",
+        "name": "Antonette",
+        "des": "Antonette"
+      },
+      "date": "01/11/2024",
+      "quantity": "15"
+    },
+    {
+      "code": "BO-1234",
+      "name": "fg",
+      "category": {
+        "id": "1",
+        "name": "Antonette",
+        "des": "Antonette"
+      },
+      "date": "01/11/2024",
+      "quantity": "1",
+      "id": "D28N7c7"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Antonette",
+      "des": "Antonette"
+    },
+    {
+      "id": "2",
+      "name": "Kamren",
+      "des": "Kamren"
+    }
+  ]
+}

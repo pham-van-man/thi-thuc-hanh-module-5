@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "website": "hildegard.org",
+      "country": {
+        "id": "1",
+        "name": "USA"
+      }
+    },
+    {
+      "id": "2",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "website": "anastasia.net",
+      "country": {
+        "id": "2",
+        "name": "Canada"
+      }
+    },
+    {
+      "id": "3",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "website": "ramiro.info",
+      "country": {
+        "id": "3",
+        "name": "Mexico"
+      }
+    },
+    {
+      "id": "4",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "website": "kale.biz",
+      "country": {
+        "id": "4",
+        "name": "UK"
+      }
+    },
+    {
+      "id": "5",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "website": "demarco.info",
+      "country": {
+        "id": "5",
+        "name": "France"
+      }
+    },
+    {
+      "id": "6",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "website": "ola.org",
+      "country": {
+        "id": "6",
+        "name": "Germany"
+      }
+    },
+    {
+      "id": "7",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "website": "elvis.io",
+      "country": {
+        "id": "7",
+        "name": "Australia"
+      }
+    },
+    {
+      "id": "8",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "website": "jacynthe.com",
+      "country": {
+        "id": "8",
+        "name": "Brazil"
+      }
+    },
+    {
+      "id": "9",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "website": "conrad.com",
+      "country": {
+        "id": "9",
+        "name": "Italy"
+      }
+    },
+    {
+      "id": "10",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "website": "ambrose.net",
+      "country": {
+        "id": "10",
+        "name": "Spain"
+      }
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "USA"
+    },
+    {
+      "id": "2",
+      "name": "Canada"
+    },
+    {
+      "id": "3",
+      "name": "Mexico"
+    },
+    {
+      "id": "4",
+      "name": "UK"
+    },
+    {
+      "id": "5",
+      "name": "France"
+    },
+    {
+      "id": "6",
+      "name": "Germany"
+    },
+    {
+      "id": "7",
+      "name": "Australia"
+    },
+    {
+      "id": "8",
+      "name": "Brazil"
+    },
+    {
+      "id": "9",
+      "name": "Italy"
+    },
+    {
+      "id": "10",
+      "name": "Spain"
+    }
+  ]
+}
